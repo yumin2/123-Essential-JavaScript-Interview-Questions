@@ -2901,7 +2901,7 @@ console.log(myFunc("a","b","c","d"));
 2.  0 2 4
 3.  undefined
 4.  ReferenceError
-	
+//number of args expected by function	
 Answer: a) 2 2 2 
 
 ### 10. What would be the output of following code ?
@@ -2949,7 +2949,8 @@ var person1 = new Person('John');
 2.  John John
 3.  John undefined
 4.  John John
-	
+
+//Function.name
 Answer: 1) John Person 
 
 ## Scopes
