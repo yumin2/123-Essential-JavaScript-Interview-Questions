@@ -1147,7 +1147,7 @@ if(typeof person.salary === 'undefined'){
 }
 ```
 ## Question 31. Write a function called `Clone` which takes an object and creates a object copy of it but not copy deep property of object. 
-
+Wrong.
 ```javascript
    var objectLit = {foo : 'Bar'}; 
 	var cloneObj = Clone(obj); // Clone is the function which you have to write 
